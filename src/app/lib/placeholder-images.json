@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-market",
+      "description": "Abstract financial market data visualization",
+      "imageUrl": "https://picsum.photos/seed/bicent1/1200/800",
+      "imageHint": "stock market data"
+    },
+    {
+      "id": "ai-assistant",
+      "description": "Futuristic AI interface representation",
+      "imageUrl": "https://picsum.photos/seed/bicent2/600/400",
+      "imageHint": "artificial intelligence"
+    }
+  ]
+}
